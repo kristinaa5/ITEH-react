@@ -1,0 +1,4 @@
+Pokrenuti sa > 
+
+yarn 
+zatim  yarn start
